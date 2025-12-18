@@ -18,4 +18,11 @@ It visually represents traffic signals (Green, Yellow, Red) with a real-time cou
 - Time module
 
 ## 📂 Project Structur
+traffic_light.py
+green.png
+yellow.png
+red.png
+
+
+
 
